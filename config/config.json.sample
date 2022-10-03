@@ -1,0 +1,18 @@
+{
+    "db" : {
+        "dsn" : "sqlite:../db/db.sq3",
+        "user" : "",
+        "pass" : ""
+    },
+    "google" : {
+        "api_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "cx"    :  "xxxxxxxxxxxxxxx"
+    },
+    "randompic" : {
+        "delayPerUser": 5,
+        "delayBeetweenSameKeyWords": 60,
+        "delayKeepCurrentPic": 5,
+        "numberOfLastsQueriesToKeepInCache": 1000
+    }
+
+}
